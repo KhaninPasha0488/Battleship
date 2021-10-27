@@ -8,6 +8,5 @@
 	<body>
 		<h1> Морской бой 1</h1>
 		<script src="Js/battleship.js"></script>
-	
 	</body>
 </html>
