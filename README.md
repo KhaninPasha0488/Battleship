@@ -6,8 +6,7 @@
 	<title>Battleship</title>
 	</head>
 	<body>
-		<h1> Морской бой</h1>
+		<h1> Морской бой 1</h1>
 		<script src="Js/battleship.js"></script>
-	
 	</body>
 </html>
